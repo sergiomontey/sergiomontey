@@ -23,7 +23,7 @@ Whether you're launching your tech journey or scaling up your skills, MONTEY is 
 - Build **AI-powered applications** across **iOS**, **Android**, and **web**
 - Train and deploy **machine learning models**
 - Integrate **neural networks** into real-world projects
-- Use industry tools like **TensorFlow**, **PyTorch**, **Flutter**, and more
+- Use **modern AI and ML tools** to solve real-world problems, and more
 
 ---
 
