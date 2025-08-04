@@ -1,5 +1,5 @@
 # 🧠 Welcome to **MONTEYCodes**
-**Mobile Oriented, Next-gen Technology Education for You**
+
 
 ---
 
