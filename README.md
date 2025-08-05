@@ -5,7 +5,7 @@
 
 ## 🚀 Learn. Build. Innovate.
 
-At **MONTEY**, we empower developers to **master the future of technology** through hands-on, AI-driven, multiplatform education.  
+At **MONTEYcodes**, we empower developers to **master the future of technology** through hands-on, AI-driven, multiplatform education.  
 Whether you're launching your tech journey or scaling up your skills, MONTEY is your launchpad into the world of **machine learning**, **neural networks**, and **intelligent app development**.
 
 ---
