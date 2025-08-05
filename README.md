@@ -20,7 +20,7 @@ Whether you're launching your tech journey or scaling up your skills, MONTEY is 
 
 ## 🛠️ What You’ll Learn
 
-- Build **AI-powered applications** across **iOS**, **Android**, and **web**
+- Build **AI-powered applications** across **iOS**, **Android**, and **Web**
 - Train and deploy **machine learning models**
 - Integrate **neural networks** into real-world projects
 - Use **modern AI and ML tools** to solve real-world problems, and more
