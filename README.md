@@ -1,4 +1,4 @@
-# 🧠 Welcome to **MONTEYCodes**
+# 🧠 Welcome to **MONTEYcodes**
 
 
 ---
