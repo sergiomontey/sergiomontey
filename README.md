@@ -36,5 +36,5 @@ Whether you're launching your tech journey or scaling up your skills, MONTEY is 
 
 ---
 
-### 🌐 Visit [monteycodes.com](https://www.monteycodes.com) for updates, resources, and new tutorials.
+### 🌐 Visit [monteyai.com](https://www.monteyai.com) for updates, resources, and new tutorials.
 
